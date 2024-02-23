@@ -4,10 +4,10 @@ import Layout from "@/layout";
 
 const inter = Inter({ subsets: ["latin"] });
 
-export default function Main() {
+export default function Home() {
 	return (
 		<Layout>
-			<div className="text-red">Home</div>
+			<div className="text-red">Profile</div>
 		</Layout>
 	);
 }
