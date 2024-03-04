@@ -14,6 +14,9 @@ export default function Header() {
 				<li>
 					<Link href={"/profile"}>Profile</Link>
 				</li>
+				<li>
+					<Link href={"/notes"}>notes</Link>
+				</li>
 			</ul>
 		</div>
 	);
